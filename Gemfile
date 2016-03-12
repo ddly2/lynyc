@@ -53,3 +53,4 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'raygun4ruby', '~> 1.1', '>= 1.1.9'
 # Performance Monitor
 gem 'newrelic_rpm', '~> 3.15', '>= 3.15.0.314'
+gem 'google-analytics-rails', '~> 1.0'
