@@ -67,6 +67,7 @@ GEM
       railties (>= 3.0.0)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
+    google-analytics-rails (1.1.0)
     httparty (0.13.7)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
@@ -190,6 +191,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   factory_girl_rails (~> 4.6)
+  google-analytics-rails (~> 1.0)
   jbuilder (~> 2.0)
   jquery-rails
   newrelic_rpm (~> 3.15, >= 3.15.0.314)
