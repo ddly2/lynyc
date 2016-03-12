@@ -48,3 +48,8 @@ group :development do
 end
 
 gem 'bootstrap-sass', '~> 3.3.6'
+
+# Error Tracking
+gem 'raygun4ruby', '~> 1.1', '>= 1.1.9'
+# Performance Monitor
+gem 'newrelic_rpm', '~> 3.15', '>= 3.15.0.314'
