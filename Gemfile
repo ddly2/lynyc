@@ -47,10 +47,13 @@ group :development do
   gem 'spring'
 end
 
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'rails-assets-tether', '~> 1.1', '>= 1.1.1'
 
 # Error Tracking
 gem 'raygun4ruby', '~> 1.1', '>= 1.1.9'
 # Performance Monitor
 gem 'newrelic_rpm', '~> 3.15', '>= 3.15.0.314'
 gem 'google-analytics-rails', '~> 1.0'
+
+gem 'rubocop', '~> 0.37.2', require: false
